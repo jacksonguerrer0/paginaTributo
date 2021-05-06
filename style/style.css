@@ -35,6 +35,12 @@ body{
     text-align: center;
     margin: 0px auto;
 }
+#img-div {
+    margin: 10px;
+}
+#image {
+    max-width: 100%;
+}
 #front {
     padding: 20px;
     margin: 0px 350px;
@@ -51,7 +57,7 @@ body{
     margin-bottom: 20px;
     color: #1f1f1f;
 }
-#caption-img{
+#img-caption{
     color: #1f1f1f;
     font-size: 15px;
     margin-bottom: 0px;
@@ -89,7 +95,7 @@ body{
     margin: 50px;
     margin-bottom: 80px;
 }
-#link a{
+#tribute-link{
     color: #1f1f1f;
 }
 #footer {
