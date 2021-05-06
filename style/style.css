@@ -40,6 +40,7 @@ body{
 }
 #image {
     max-width: 100%;
+    display: block;
 }
 #front {
     padding: 20px;
@@ -75,6 +76,8 @@ body{
 #content-info img{
     border-radius: 150px;
     margin: 20px;
+    display: block;
+    width: 100%;
 }
 #content-info #li-one, #li-three, #li-five{
     list-style: none;
