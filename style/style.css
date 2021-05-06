@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#nav {
+    width: 100%;
+    background-color: cadetblue;
+}
+#list-nav {
+    list-style: none;
+    text-align: center;
+
+}
+#list-nav li{
+    display: inline-block;
+    padding: 20px;
+    height: 30px;
+}
+#list-nav li a{
+    text-decoration: none;
+    color: rgb(231, 231, 231);
+    font-size: 20px;
+}
+body{
+    background-color: rgb(228, 247, 255);
+}
+#main{
+    text-align: center;
+    margin: 0px auto;
+}
+#front {
+    padding: 20px;
+    margin: 50px 350px;
+    background-color: rgb(245, 255, 255);
+    border-radius: 20px;
+}
+#content-tittle {
+    background-color: rgb(228, 247, 255);
+    color: #1f1f1f;
+}
+#title {
+    margin-top: 80px;
+    margin-bottom: 20px;
+    color: #1f1f1f;
+}
+#caption-img{
+    color: #1f1f1f;
+    font-size: 15px;
+    margin-top: 20px;
+}
+#tribute-info{
+    padding: 20px;
+    margin: 50px 350px;
+}
+#title-details {
+    margin: 80px auto;
+    font-size: 25px;
+    color: #1f1f1f;
+    background-color: rgb(245, 255, 255);
+}
+#content-info img{
+    border-radius: 150px;
+    margin: 20px;
+}
+#content-info #li-one, #li-three, #li-five{
+    list-style: none;
+    text-align: left;
+    margin-right: 300px;
+    color:#1f1f1f;
+}
+#content-info #li-two, #li-four{
+    list-style: none;
+    text-align: right;
+    margin-left: 300px;
+    color: #1f1f1f;
+}
+#content-info li {
+    margin: 60px  0px;
+}
+#link {
+    margin: 50px;
+    margin-bottom: 80px;
+}
+#link a{
+    color: #1f1f1f;
+}
+#footer {
+    background-color: cadetblue;
+    height: 80px;
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(231, 231, 231);
+}
